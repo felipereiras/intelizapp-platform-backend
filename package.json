@@ -8,6 +8,10 @@
   },
   "dependencies": {
     "express": "^4.17.1",
-    "cors": "^2.8.5"
+    "cors": "^2.8.5",
+    "mongoose": "^5.12.3",
+    "whatsapp-web.js": "^1.16.6",
+    "qrcode": "^1.4.4",
+    "dotenv": "^10.0.0"
   }
 }
